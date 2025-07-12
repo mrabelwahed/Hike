@@ -38,13 +38,6 @@ Passionate about building elegant iOS apps using SwiftUI.
 
 ---
 
-## 🌐 Website
-
-Coming Soon... Stay tuned!  
-(_Currently linked as "Website" placeholder in the app_)
-
----
-
 ## 📄 License
 
 Copyright © Mahmoud Ramadan  
@@ -52,13 +45,7 @@ All rights reserved.
 
 ---
 
-## 📥 Download
-
-Hike will be available on the App Store soon. Follow for updates!
-
----
-
 ## 📬 Feedback
 
-Have ideas or suggestions? Reach out via [Twitter](#) or [Email](#).
+Have ideas or suggestions? Reach out via [Twitter](https://x.com/ramadanDEV).
 
